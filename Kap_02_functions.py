@@ -32,4 +32,4 @@ table.cell(1, 0).text = 'Baz'
 table.cell(1, 1).text = 'Qux'
 
 prs.save('test.pptx')
-os.startfile('test.pptx')
+os.startfile('test.pptx') # https://pythonprogramming.altervista.org/inserting-an-image-in-powerpoint-with-python/
