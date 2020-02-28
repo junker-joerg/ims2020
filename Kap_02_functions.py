@@ -62,8 +62,8 @@ table.columns[0].width = Inches(2.0)
 table.columns[1].width = Inches(4.0)
 
 # write column headings
-table.cell(0, 0).text = 'Foo'
-table.cell(0, 1).text = 'Bar'
+table.cell(0, 0).text = 'Martin'
+table.cell(0, 1).text = 'Köhler'
 
 # write body cells
 table.cell(1, 0).text = 'Baz'
