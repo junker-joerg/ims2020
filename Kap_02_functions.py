@@ -1,6 +1,8 @@
 # Tabelle anlegen
 # ! Achtung: alles in pandas machen
 # ToDo  zur Installation: pip install python-pptx
+# ! kommt vom KPMG Rechner
+
 """
 slide_layouts[x]
 0 Title (presentation title slide)
@@ -15,7 +17,7 @@ slide_layouts[x]
  
  shapes - 6 verschiedene "Hauptarten"
  1 autoshape: 180 verschiedene
- 2 picture
+ 2 picturepptx
  3 grahic frame - kann Tabelle, Diagramm
  4 group shape - eine Menge von Shapes
  5 line / contector
